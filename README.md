@@ -1,3 +1,5 @@
+![Python checks](https://github.com/leakquicked/csp-analyzer/actions/workflows/python-checks.yml/badge.svg)
+
 # CSP Analyzer
 
 Inspect a copied Content-Security-Policy value for broad directives.
